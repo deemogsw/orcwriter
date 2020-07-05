@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="184e41b8-4249-4e66-8f5d-d9470625725c" name="Default Changelist" comment="" />
+    <list default="true" id="184e41b8-4249-4e66-8f5d-d9470625725c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orcwrite/orcwrite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/orcwrite/orcwrite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orcwrite/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/orcwrite/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -45,13 +53,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/orcwrite/src/main/resources" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/orcwrite/src/main" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea_workspace2\mystudy\orcwrite\src\main" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.orcWriterImpl">
     <configuration name="orcWriteImpl2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -101,22 +115,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="128" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591631575399" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1591632120589">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1593617571324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591632120589" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1591632120589">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593617571324" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1593617571324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591632120589" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1591632120589">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593617571324" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1593617571324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591632120589" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1591632120589">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593617571324" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1593617571324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591632120589" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593617571324" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1591631752841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
